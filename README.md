@@ -1,7 +1,7 @@
 ## Olá!! Eu sou o Jonas Boechat
 
-- 🔭 Atualmenet trabalho com Desenvolvimento Mobile Flutter
-- 🌱 Estudando Dart e novas tecnologias do framework Flutter 
+- 🔭 Atualmente trabalho com Desenvolvimento Mobile Android
+- 🌱 Estudando Java/Kotlin 
 
 <div align="center">
   <a href="https://github.com/JonasBoechat">
